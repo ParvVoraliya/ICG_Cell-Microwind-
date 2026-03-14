@@ -23,6 +23,7 @@ This structure prevents **glitches in the clock signal**, which is critical for 
 ![Layout](Layout1.png)
 ---
 ### Simulation Output
+![Design](sim.png)
 
 ---
 
