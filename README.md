@@ -19,9 +19,10 @@ Clock gating solves this problem by:
 This structure prevents **glitches in the clock signal**, which is critical for reliable digital system operation.
 
 ### Latch-AND Based ICG Cell
-
-
+![Design](img.png)
+![Layout](Layout1.png)
 ---
+### Simulation Output
 
 ---
 
